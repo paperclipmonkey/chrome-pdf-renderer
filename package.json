@@ -1,0 +1,12 @@
+{
+  "name": "topdf",
+  "version": "0.0.1",
+  "description": "A PDF renderer with custom options",
+  "main": "index.js",
+  "author": "Epimorphics Ltd",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "puppeteer": "^1.0.0"
+  }
+}
